@@ -1,7 +1,9 @@
 # Next-on-Netlify Redirects
-/_next/data/4MJ01jShZTo35RN5eEL1j/blog.json  /.netlify/functions/next_blog  200!  Cookie=__prerender_bypass,__next_preview_data
-/_next/data/4MJ01jShZTo35RN5eEL1j/blog/post/2019-09-06_its_not_the_problem_you_want_to_solve_boiiiiii.json  /.netlify/functions/next_blog_post_slug  200!  Cookie=__prerender_bypass,__next_preview_data
-/_next/data/4MJ01jShZTo35RN5eEL1j/blog/post/2019-09-06_why_did_the_chicken_cross_the_road.json  /.netlify/functions/next_blog_post_slug  200!  Cookie=__prerender_bypass,__next_preview_data
+\_next\data\6XgdBh3TrhKCcgBY9w7LE\about.json  /.netlify/functions/next_about  200
+/_next/data/6XgdBh3TrhKCcgBY9w7LE/blog.json  /.netlify/functions/next_blog  200!  Cookie=__prerender_bypass,__next_preview_data
+/_next/data/6XgdBh3TrhKCcgBY9w7LE/blog/post/2019-09-06_its_not_the_problem_you_want_to_solve_boiiiiii.json  /.netlify/functions/next_blog_post_slug  200!  Cookie=__prerender_bypass,__next_preview_data
+/_next/data/6XgdBh3TrhKCcgBY9w7LE/blog/post/2019-09-06_why_did_the_chicken_cross_the_road.json  /.netlify/functions/next_blog_post_slug  200!  Cookie=__prerender_bypass,__next_preview_data
+/about  /.netlify/functions/next_about  200
 /blog  /.netlify/functions/next_blog  200!  Cookie=__prerender_bypass,__next_preview_data
 /blog/post/2019-09-06_its_not_the_problem_you_want_to_solve_boiiiiii  /.netlify/functions/next_blog_post_slug  200!  Cookie=__prerender_bypass,__next_preview_data
 /blog/post/2019-09-06_why_did_the_chicken_cross_the_road  /.netlify/functions/next_blog_post_slug  200!  Cookie=__prerender_bypass,__next_preview_data
