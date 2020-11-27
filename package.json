@@ -10,6 +10,7 @@
     "postbuild": "next-on-netlify"
   },
   "dependencies": {
+    "airtable": "^0.10.1",
     "next": "latest",
     "next-on-netlify": "^2.6.3",
     "react": "^16.9.0",
